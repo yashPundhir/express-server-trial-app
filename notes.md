@@ -34,3 +34,7 @@ now by running the express code file, server will start and the output can be ch
 after making new changes to the server, it needs to be restarted again to see new changes bcz nodejs does not support hot reload by default if we use the `node fileName.js` script to run the server.
 
 to make sure that the server gets restarted after every new change in the file, we can use the following script: `node --watch fileName.js`
+
+> ### TODO: Git SSH Setup
+
+> ### never ever push `.env` file to github, so always add it to `.gitignore` file.
