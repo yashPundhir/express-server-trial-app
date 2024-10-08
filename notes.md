@@ -38,3 +38,5 @@ to make sure that the server gets restarted after every new change in the file, 
 > ### TODO: Git SSH Setup
 
 > ### never ever push `.env` file to github, so always add it to `.gitignore` file.
+
+> To See how to deploy express app on production, see the video [Deploy Backend code to production](https://www.youtube.com/watch?v=pOV4EjUtl70&list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW&index=2) from the timestamp `35:30`
